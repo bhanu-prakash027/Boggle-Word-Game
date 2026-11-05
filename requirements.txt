@@ -1,0 +1,5 @@
+# Boggle Word Master
+# Built exclusively with Python 3.8+ Standard Library!
+# No external package installations are required.
+# (tkinter is bundled with standard Python distributions on Windows/macOS)
+
